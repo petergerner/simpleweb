@@ -21,8 +21,8 @@ core = 7.x
 ;projects[gallery][download][branch] = "drupal-7--1"
 ;projects[gallery][download][tag] = "7.x-1.0-dev"
 
-;projects[ckedit][type] = "module"
-;projects[ckedit][download][type] = "git"
-;projects[ckedit][download][url] = "git://github.com/doka/ckedit.git"
-;projects[ckedit][download][branch] = "drupal-7--1"
+projects[ckedit][type] = "module"
+projects[ckedit][download][type] = "git"
+projects[ckedit][download][url] = "git://github.com/doka/ckedit.git"
+projects[ckedit][download][branch] = "devel"
 ;projects[ckedit][download][tag] = "7.x-1.0-dev"

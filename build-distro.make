@@ -15,7 +15,7 @@ projects[drupal][type] = core
 projects[drupal][version] = "7.22"
 
 ; External libraries ==========================================================
-; includes[] = https://raw.github.com/doka/ckedit/master/libraries.make
+includes[] = https://raw.github.com/doka/ckedit/master/libraries.make
 ; includes[] = https://raw.github.com/doka/gallery/master/libraries.make
 
 ; simpleweb profile ===========================================================
