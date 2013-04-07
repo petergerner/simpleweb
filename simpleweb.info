@@ -1,0 +1,45 @@
+; $Id: 
+;
+name = Simpleweb
+description = A simple web profile, with album and wysiwyg features
+;
+core = 7.x
+version = 7.x-1.0-dev
+;
+; Core minimal
+dependencies[] = block
+dependencies[] = dblog
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = image
+dependencies[] = menu
+dependencies[] = toolbar
+;
+; Core optional
+dependencies[] = comment
+dependencies[] = contact
+dependencies[] = dblog
+dependencies[] = help
+dependencies[] = path
+dependencies[] = rdf
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = taxonomy
+;
+; Contrib modules - Gallery
+dependencies[] = ctools
+dependencies[] = views
+dependencies[] = views_ui
+;dependencies[] = colorbox
+;
+; Contrib modules - features
+;dependencies[] = strongarm
+;dependencies[] = features
+;
+; Contrib modules - features modules
+;dependencies[] = galleries
+;dependencies[] = ckedit_features
+
+;
+; optional ???
+;files[] = gallery.profile
