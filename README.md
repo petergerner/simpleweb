@@ -1,0 +1,4 @@
+simpleweb
+=========
+
+Simple Drupal distro
