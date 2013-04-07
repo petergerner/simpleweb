@@ -27,9 +27,9 @@ dependencies[] = shortcut
 dependencies[] = taxonomy
 ;
 ; Contrib modules - Gallery
-dependencies[] = ctools
-dependencies[] = views
-dependencies[] = views_ui
+;dependencies[] = ctools
+;dependencies[] = views
+;dependencies[] = views_ui
 ;dependencies[] = colorbox
 ;
 ; Contrib modules - features
