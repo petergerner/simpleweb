@@ -1,4 +1,4 @@
-; 
+;
 ; make file for simpleweb profile
 ;
 ; $Id$
@@ -24,5 +24,5 @@ core = 7.x
 projects[ckedit][type] = "module"
 projects[ckedit][download][type] = "git"
 projects[ckedit][download][url] = "git://github.com/doka/ckedit.git"
-projects[ckedit][download][branch] = "devel"
+projects[ckedit][download][branch] = "master"
 ;projects[ckedit][download][tag] = "7.x-1.0-dev"

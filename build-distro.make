@@ -3,7 +3,7 @@
 ; Use this file to build a full distro including Drupal core and
 ; install profile using the following command:
 ;
-;     $ drush make https://raw.github.com/doka/simpleweb/master/build-distro.make [directory]
+;     $ drush make https://raw.githubusercontent.com/doka/simpleweb/master/build-distro.make  [directory]
 
 ; interfaces
 ; ----------
