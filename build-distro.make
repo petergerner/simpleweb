@@ -12,7 +12,7 @@ core = 7.x
 
 ; Drupal core =================================================================
 projects[drupal][type] = core
-projects[drupal][version] = "7.22"
+projects[drupal][version] = "7.32"
 
 ; External libraries ==========================================================
 includes[] = https://raw.github.com/doka/ckedit/master/libraries.make
