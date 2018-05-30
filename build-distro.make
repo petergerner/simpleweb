@@ -21,5 +21,5 @@ includes[] = https://raw.github.com/doka/ckedit/master/libraries.make
 projects[simpleweb][type] = profile
 projects[simpleweb][download][type] = git
 projects[simpleweb][download][url] = "git://github.com/doka/simpleweb.git"
-projects[simpleweb][download][tag] = "d7.581-18.05"
+; projects[simpleweb][download][tag] = "d7.581-18.05"
 projects[simpleweb][download][branch] = master
