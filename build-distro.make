@@ -12,7 +12,7 @@ core = 7.x
 
 ; Drupal core =================================================================
 projects[drupal][type] = core
-projects[drupal][version] = "7.59"
+projects[drupal][version] = "7.64"
 
 ; External libraries ==========================================================
 includes[] = https://raw.github.com/doka/ckedit/master/libraries.make
@@ -21,5 +21,4 @@ includes[] = https://raw.github.com/doka/ckedit/master/libraries.make
 projects[simpleweb][type] = profile
 projects[simpleweb][download][type] = git
 projects[simpleweb][download][url] = "git://github.com/doka/simpleweb.git"
-; projects[simpleweb][download][tag] = "d7.581-18.05"
 projects[simpleweb][download][branch] = master
